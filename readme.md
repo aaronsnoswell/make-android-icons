@@ -4,8 +4,6 @@ A handy bash script for generating sets of Android icons. Pass in the original
 icon file (at a resolution greater than 96x96), and it will spit out 4 images
 at the correct ldpi, mdpi, hdpi and xhdpi resolutions.
 
-By @aaronsnoswell
-
 Example:
 
     $> ./make-icon-set.sh icon.png
@@ -19,4 +17,4 @@ Specifically the convert command.
 
 ## See also
 
- * [http://developer.android.com/guide/practices/screens_support.html]
+ * http://developer.android.com/guide/practices/screens_support.html
